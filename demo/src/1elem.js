@@ -1,3 +1,3 @@
-import {ZzButton} from '../../components/zz-button.js';
+import {ZzButton} from 'zz-button.js';
 
 console.log('App loaded');
