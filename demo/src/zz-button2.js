@@ -1,6 +1,6 @@
 import {LitElement, html} from '@polymer/lit-element';
 
-export class ZzButton extends LitElement {
+export class ZzButtonn extends LitElement {
   static get properties() {
     return {
       label: String
@@ -8,8 +8,8 @@ export class ZzButton extends LitElement {
   }
 
   _render({ label }) {
-    return html`<p></p>`;
+    return html`<p>zz button2</p>`;
   }
 }
 
-customElements.define('zz-button', ZzButton);
+customElements.define('zz-buttonn', ZzButtonn);

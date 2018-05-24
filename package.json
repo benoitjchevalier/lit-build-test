@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@polymer/lit-element": "^0.5.0",
-    "@webcomponents/webcomponentsjs": "^1.2.0"
-    
+    "@webcomponents/webcomponentsjs": "^1.2.0",
+    "npm": "^6.1.0"
   }
 }
